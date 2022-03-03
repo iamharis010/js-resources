@@ -1,5 +1,5 @@
 # JavaScript Tips & Resources
-### This is a list of useful coding tips, resources & best practices about Laravel.
+### This is a list of useful programming tips, resources & best practices about JavaScript.
 
 You can also follow me on [Twitter](https://twitter.com/intent/follow?screen_name=iamharis010) [<img width="20" height="20" title="Mohammad Haris on twitter" src="https://github.com/iamharis010/hot-tips/blob/main/twitter-icon.gif"/>](https://twitter.com/intent/follow?screen_name=iamharis010)
 
