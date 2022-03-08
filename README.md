@@ -8,3 +8,4 @@ You can also follow me on [Twitter](https://twitter.com/intent/follow?screen_nam
 | 28-02-2022    | Array Empty Ways  | https://twitter.com/iamharis010/status/1498333535702159362 |
 | 11-02-2022    | Object Cheatsheet  | https://twitter.com/iamharis010/status/1491860652612222976 |
 | 07-02-2022    | Magic Navigator Methods 1.0 | https://twitter.com/iamharis010/status/1496972356799000585 |
+| 04-02-2022    | Nullish coalescing operator ( ?? ) | https://twitter.com/iamharis010/status/1489325731104505856 |
