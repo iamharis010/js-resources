@@ -9,3 +9,4 @@ You can also follow me on [Twitter](https://twitter.com/intent/follow?screen_nam
 | 11-02-2022    | Object Cheatsheet  | https://twitter.com/iamharis010/status/1491860652612222976 |
 | 07-02-2022    | Magic Navigator Methods 1.0 | https://twitter.com/iamharis010/status/1496972356799000585 |
 | 04-02-2022    | Nullish coalescing operator ( ?? ) | https://twitter.com/iamharis010/status/1489325731104505856 |
+| 31-08-2024    | Class Field Declaration | https://x.com/iamharis010/status/1829947984580374599
